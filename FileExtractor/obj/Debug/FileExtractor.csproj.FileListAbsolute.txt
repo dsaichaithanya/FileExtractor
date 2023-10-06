@@ -1,0 +1,11 @@
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\bin\Debug\FileExtractor.exe.config
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\bin\Debug\FileExtractor.exe
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\bin\Debug\FileExtractor.pdb
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.Form1.resources
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.Properties.Resources.resources
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.csproj.GenerateResource.cache
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.csproj.CoreCompileInputs.cache
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.exe
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.pdb
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.csproj.CopyComplete
+C:\Users\EHTAL\source\repos\FileExtractor\FileExtractor\obj\Debug\FileExtractor.csproj.AssemblyReference.cache
