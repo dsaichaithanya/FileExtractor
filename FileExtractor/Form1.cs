@@ -16,7 +16,8 @@ namespace FileExtractor
     {
         string filepath = null;
         DataTable dt = new DataTable();
-        string fileDate = null;     
+        string fileDate = null; 
+		int sai = 1;   
 
         public Form1()
         {
